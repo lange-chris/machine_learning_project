@@ -15,12 +15,12 @@
 
 ## Daily 2026-03-19
 
-*
-*
-*
+* good progress in EDA and Data Cleaning
+* finished Train-Test-Split together
+* Starting on modelling separetely
 
 ## Daily 2026-03-20
 
-*
-*
-*
+* RidgeReg from Chris done
+* Esther is working her RandomForest
+* Isis is working on her XGBoost
