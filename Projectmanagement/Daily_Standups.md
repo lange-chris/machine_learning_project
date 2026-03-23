@@ -24,3 +24,9 @@
 * RidgeReg from Chris done
 * Esther is working her RandomForest
 * Isis is working on her XGBoost
+
+## Daily 2026-03-23
+* combine Models
+* create slides
+* present
+* cleanup Github
